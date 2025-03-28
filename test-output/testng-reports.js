@@ -47,7 +47,7 @@ function installMethodHandlers(name, hide) {
     }
 
     function getShowLink(t, name) {
-        return $('a.show-methods.' + name + "." + t.attr('panel-name'));
+        return $('Git 2'+t.attr('panel-name'));
     }
 
     function getMethodPanelClassSel(element, name) {

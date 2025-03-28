@@ -25,6 +25,7 @@ public class ExtentReportDemo {
 		extent.attachReporter(reporter);
 		extent.setSystemInfo("Tester", "Nitin");
 		System.out.println("Git 1");
+		System.out.println("Git 2");
 		
 	}
 	
